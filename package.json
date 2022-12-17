@@ -23,7 +23,7 @@
     "chai": "latest"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/ronalddddd/hko-scraper"
+    "type": "git",
+    "url": "https://github.com/ronalddddd/hko-scraper"
   }
 }
